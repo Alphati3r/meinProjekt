@@ -1,6 +1,6 @@
 i) git commit: Alle vorgenommenen Änderungen werden aus dem Arbeitsbereich mit "git commit" in der Repository mit -m kommentiert und gespeichert.
 ii) git push: mit "git push" werden die Dateien aus der Repostitory auf der Remote-Repository gespeichert.
-iii) git pull: 
-iv)
-v)
+iii) git pull: Lädt aus anderen Repositorys und verbindet diese mit einer Anderen
+iv) git fetch: Quasi das Gegenteil von "git push". Hier werden refs aus einer oder mehreren Repositorys geladen.
+v) git clone: Kopiert Repository
 vi) git checkout: Mit "git checkout" werden "Backups aus der Repository geladen und Änderungen verworfen bzw. rückgängig gemacht.
