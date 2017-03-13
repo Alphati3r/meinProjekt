@@ -1,1 +1,3 @@
-Das ist ein Test asdfasdfasdf rEGEn
+i) git commit: mit "git add" oder "git rm" werden Dateien hinzugefügt, bzw. gelöscht. Diese werden dann mit "git commit" mit Beschreibung der Änderungen in der Repository gelagert.
+ii) git push: mit "git push" werden die Dateien aus der Repostitory auf der Remote-Repository gespeichert.
+iii) git pull:
