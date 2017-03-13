@@ -1,3 +1,3 @@
 i) git commit: mit "git add" oder "git rm" werden Dateien hinzugefügt, bzw. gelöscht. Alle vorgenommenen Änderungen werden mit "git commit" in der Repository mit -m kommentiert und gespeichert.
 ii) git push: mit "git push" werden die Dateien aus der Repostitory auf der Remote-Repository gespeichert.
-iii) git pull: jajajajajajaja
+iii) git pull: 
